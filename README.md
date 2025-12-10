@@ -33,15 +33,6 @@
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasanka-github&show_icons=true&theme=tokyonight" alt="Sasanka's GitHub stats" width="49.5%"/>
-</p>
-
 ---
 
 ### 🌐 Connect With Me
