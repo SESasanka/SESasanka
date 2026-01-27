@@ -79,25 +79,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SESasanka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SESasanka&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SESasanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SESasanka&area=true&hide_border=true&hide_title=false&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=SESasanka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SESasanka&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SESasanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SESasanka&area=true&hide_border=true&hide_title=false&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<h3 align="left">🤖 Contributions</h3>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SESasanka/SESasanka/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SESasanka/SESasanka/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SESasanka/SESasanka/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
