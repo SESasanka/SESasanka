@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Sasanka Akash
+# 👋 Hi there, I'm Sasank Akash
 
 ### 🚀 Full Stack Software Engineer | 🤖 AI/ML/DL Engineer
 
@@ -116,11 +116,11 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SESasanka&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SESasanka&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SESasanka&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -130,7 +130,7 @@ me.say_hi()
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SESasanka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -150,10 +150,10 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sasanka-akash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasanka-akash)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codingwithsasanka)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/YOUR_TWITTER](https://x.com/SE_Sasanka))
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://YOUR_WEBSITE](https://sasanka.vercel.app/))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SE_Sasanka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sasanka.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasankaakash89@gmail.com)
 
 </div>
@@ -164,8 +164,8 @@ me.say_hi()
   
 ### 💡 *"Building the future, one line of code at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SESasanka&color=blueviolet&style=for-the-badge)
 
-⭐️ From [YOUR_USERNAME]([https://github.com/SESasanka])
+⭐️ From [SESasanka](https://github.com/SESasanka)
 
 </div>
