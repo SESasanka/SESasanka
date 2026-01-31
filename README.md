@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Sasanka Akash
 
 ### 🚀 Full Stack Software Engineer | 🤖 AI/ML/DL Engineer
 
@@ -150,10 +150,11 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://YOUR_WEBSITE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sasanka-akash)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codingwithsasanka)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/YOUR_TWITTER](https://x.com/SE_Sasanka))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://YOUR_WEBSITE](https://sasanka.vercel.app/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasankaakash89@gmail.com)
 
 </div>
 
@@ -165,6 +166,6 @@ me.say_hi()
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_USERNAME](https://github.com/SESasanka)
 
 </div>
