@@ -15,7 +15,7 @@
 ```python
 class FullStackAIEngineer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Sasanka Akash"
         self.role = "Full Stack Software Engineer & AI/ML/DL Engineer"
         self.code = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
         self.expertise = {
@@ -166,6 +166,6 @@ me.say_hi()
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
 
-⭐️ From [YOUR_USERNAME](https://github.com/SESasanka)
+⭐️ From [YOUR_USERNAME]([https://github.com/SESasanka])
 
 </div>
